@@ -1,4 +1,4 @@
-[![Kazuji Training Shot Out GM](https://cdn.discordapp.com/attachments/1139146928634990625/1172503006361686108/UXHaBqq.png?ex=65608d84&is=654e1884&hm=51ef37376dd8d0265ce3b3b7356b810a1f88cb60caa88242dbc10f9069ca481f&)]([https://discord.gg/SCJ94u2M6v])
+[![With SetPlayerLookAt]([https://media.discordapp.net/attachments/1139146928634990625/1173156765525868564/tQijUHw.png?ex=6562ee61&is=65507961&hm=b256ef9ef5926a708fcd5a1df6815e91a7786e74856528ba4703d52baf921fea&=&width=885&height=498])]([https://discord.gg/SCJ94u2M6v])
 
 
 
