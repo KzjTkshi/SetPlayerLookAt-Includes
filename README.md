@@ -1,26 +1,32 @@
-[![With SetPlayerLookAt]([https://media.discordapp.net/attachments/1139146928634990625/1173156765525868564/tQijUHw.png?ex=6562ee61&is=65507961&hm=b256ef9ef5926a708fcd5a1df6815e91a7786e74856528ba4703d52baf921fea&=&width=885&height=498])]([https://discord.gg/SCJ94u2M6v])
 
+JIKA TIDAK MENGGUNAKAN SETPLAYERLOOKAT, MAKA ROTASI PEMAIN TIDAK MENGARAH KE KOORDIRNAT X, Y YANG KALIAN SET
+ 
+[![Without SetPlayerLookAt]([https://media.discordapp.net/attachments/1139146928634990625/1173156415720915014/3ELR0P4.png?ex=6562ee0d&is=6550790d&hm=192d7a1195fa49fa422974999eb2060bacb89fb741158d18bdacaa2796872d4f&=&width=885&height=498])]([https://discord.gg/SCJ94u2M6v])
 
+JIKA MENGGUNAKAN SETPLAYERLOOKAT, MAKA ROTASI PEMAIN AKAN MENGARAH KE KOORDIRNAT X, Y YANG KALIAN SET
+ 
+[![With SetPlayerLookAt](https://media.discordapp.net/attachments/1139146928634990625/1173156765525868564/tQijUHw.png?ex=6562ee61&is=65507961&hm=b256ef9ef5926a708fcd5a1df6815e91a7786e74856528ba4703d52baf921fea&=&width=885&height=498)]([https://discord.gg/SCJ94u2M6v])
 
-# GM-Kazuji-Training-ShotOut
+# NOTE
 
-```
-KTGM Alias Kazuji Training GameMode, This gamemode is suitable for those of you who want to create a shot out practice server. For further features, you can check the gamemode
-```
-
-```
-KTGM Alias Kazuji Training GameMode, Gamemode ini cocok untuk kalian yang ingin membuat server latihan tembak-menembak. Untuk fitur lebih lanjut, Anda dapat memeriksa gamemode
-```
-
-# HOW TO RUN IN WINDOWS OR LINUX & HOSTING
 ```bash
-1. Download https://github.com/KzjTkshi/KTGM-Kazuji-Training-Gamemode First
-2. Extract The File
-3. Click 2x samp-server.exe
-4. Done
-
-NOTE :
-on Linux it's the same, only in the server.cfg plugin section you have to add .so
-//
-in Hosting it's the same as Linux, only in the server.cfg plugin section you have to add .so & change the server port number
+INI INCLUDE HANYA MENGGUNAKAN KOORDIRNAT X, Y
+DAN INCLUDE INI MASIH BETA TEST, JIKA ADA BUG TOLONG DI MAKLUMI
 ```
+
+```
+MUNGKIN DI UPDATE BERIKUTNYA SAYA TAMBAHKAN KOORDIRNAT Z, KALAU MASALAH ANGLE KALIAN BISA MENGGUNAKAN SetPlayerAngle Untuk Sementara
+```
+
+# EXAMPLE SCRIPT
+
+```js
+CMD:tes(playerid, params[])
+{
+	SetPlayerLookAt(playerid, 285.5169, -40.0603);
+	return 1;
+}
+```
+// BAGIAN 285.5169, -40.0603 Lu ganti jadi X, Y dari koordirnat lu
+
+THANKS KALO KURANG JELAS YAUDAH SIH PAHAMI SENDIRI
