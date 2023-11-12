@@ -3,7 +3,7 @@
 [![SetPlayerLookAt-Includes]([https://cdn.discordapp.com/attachments/1139146928634990625/1173153196261261332/8Y7yxyJ.png?ex=6562eb0e&is=6550760e&hm=ad94e34a47377dac592e729142652b0efbdc898b7535fa8a54d88619f764b6ac&])]([https://discord.gg/SCJ94u2M6v])
 
 # JIKA MENGGUNAKAN SETPLAYERLOOKAT, MAKA ROTASI PEMAIN AKAN MENGARAH KE KOORDIRNAT X, Y YANG KALIAN SET
-[![SetPlayerLookAt-Includes]([https://media.discordapp.net/attachments/1139146928634990625/1173153196701650954/roLCud9.png?ex=6562eb0e&is=6550760e&hm=03fe8320241f259ab7c49156a6c96a5106634c10b5eb1c9f9f5f9f2e3b77f79e&=&width=885&height=498])]([https://discord.gg/SCJ94u2M6v])
+[![SetPlayerLookAt-Includes]([https://cdn.discordapp.com/attachments/1139146928634990625/1173153196701650954/roLCud9.png?ex=6562eb0e&is=6550760e&hm=03fe8320241f259ab7c49156a6c96a5106634c10b5eb1c9f9f5f9f2e3b77f79e&])]([https://discord.gg/SCJ94u2M6v])
 
 # NOTE
 
