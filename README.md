@@ -1,11 +1,11 @@
 
 JIKA TIDAK MENGGUNAKAN SETPLAYERLOOKAT, MAKA ROTASI PEMAIN TIDAK MENGARAH KE KOORDIRNAT X, Y YANG KALIAN SET
  
-[![Without SetPlayerLookAt]([https://cdn.discordapp.com/attachments/1139146928634990625/1173153196261261332/8Y7yxyJ.png?ex=6562eb0e&is=6550760e&hm=ad94e34a47377dac592e729142652b0efbdc898b7535fa8a54d88619f764b6ac&])]([https://discord.gg/SCJ94u2M6v])
+[![Without SetPlayerLookAt]([https://media.discordapp.net/attachments/1139146928634990625/1173156415720915014/3ELR0P4.png?ex=6562ee0d&is=6550790d&hm=192d7a1195fa49fa422974999eb2060bacb89fb741158d18bdacaa2796872d4f&=&width=885&height=498])]([https://discord.gg/SCJ94u2M6v])
 
 JIKA MENGGUNAKAN SETPLAYERLOOKAT, MAKA ROTASI PEMAIN AKAN MENGARAH KE KOORDIRNAT X, Y YANG KALIAN SET
  
-[![With SetPlayerLookAt]([https://cdn.discordapp.com/attachments/1139146928634990625/1173153196701650954/roLCud9.png?ex=6562eb0e&is=6550760e&hm=03fe8320241f259ab7c49156a6c96a5106634c10b5eb1c9f9f5f9f2e3b77f79e&])]([https://discord.gg/SCJ94u2M6v])
+[![With SetPlayerLookAt]([https://media.discordapp.net/attachments/1139146928634990625/1173156765525868564/tQijUHw.png?ex=6562ee61&is=65507961&hm=b256ef9ef5926a708fcd5a1df6815e91a7786e74856528ba4703d52baf921fea&=&width=885&height=498])]([https://discord.gg/SCJ94u2M6v])
 
 # NOTE
 
